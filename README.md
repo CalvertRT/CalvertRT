@@ -14,4 +14,4 @@ offline-to-online-attribution: a simple method for measuring website lift from T
 
 Tools I work with: Roku OneView, AudioGO, Mediaocean, Google Analytics (GA4), Comscore, Vivvix, Excel, and AI tools daily
 
-Connect: LinkedIn
+Connect:(https://www.linkedin.com/in/timothy-calvert/)
